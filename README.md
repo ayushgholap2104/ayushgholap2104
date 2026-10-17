@@ -98,7 +98,9 @@
 
 <br/><br/>
 
-<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif/">
+<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif/"
+   width="450"
+   alt="Developer Coding GIF"/>
 
 💻 Eat. Sleep. Code. Debug. Repeat. 🔄
 
