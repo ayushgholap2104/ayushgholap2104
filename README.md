@@ -50,7 +50,7 @@
 <a href="https://www.oracle.com/database/"><img src="https://skillicons.dev/icons?i=oracle" height="50" alt="Oracle"/></a>   
 <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" height="50" alt="Pandas"/></a>   
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/></a>   
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/></a>   
+
 
 </div>
 
