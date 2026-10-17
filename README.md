@@ -36,7 +36,8 @@
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/></a>   
 <a href="https://www.scala-lang.org/"><img src="https://skillicons.dev/icons?i=scala" height="50" alt="Scala"/></a>   
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML"/></a>   
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS"/></a>   
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS"/></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JS"><img src="https://skillicons.dev/icons?i=js" height="50" alt="JS"/></a>  
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/></a>   
 <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap"/></a>   
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS"/></a>   
