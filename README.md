@@ -8,14 +8,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Developer+%F0%9F%9A%80;Turning+Ideas+into+Code+%F0%9F%92%BB;Learning+Something+New+Every+Day+%F0%9F%8C%B1;Code.+Debug.+Learn.+Repeat.+%F0%9F%94%84" alt="Typing SVG"/>
 </a>
 
-<br/>
 
-<a href="https://github.com/ayushgholap2104">
-<img src="https://komarev.com/ghpvc/?username=ayushgholap2104&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-</a>
-<a href="https://github.com/ayushgholap2104?tab=followers">
-<img src="https://img.shields.io/github/followers/ayushgholap2104?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers"/>
-</a>
+
 
 </div>
 
@@ -103,7 +97,7 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/qgQUggACoB9yY/giphy.gif" width="350" alt="Developer coding animation"/>
+<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif/">
 
 💻 Eat. Sleep. Code. Debug. Repeat. 🔄
 
