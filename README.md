@@ -51,7 +51,6 @@
 <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" height="50" alt="Pandas"/></a>   
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/></a>   
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/></a>   
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/></a>
 
 </div>
 
